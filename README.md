@@ -15,5 +15,5 @@
 - Team-based Strategy Game with JAVA
 
 📫 Contact:
-- LinkedIn: [...](https://www.linkedin.com/in/abdellah-achafik/)
+- LinkedIn: https://www.linkedin.com/in/abdellah-achafik/
 - Email: abdoachafik@gmail.com
