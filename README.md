@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdellah 👋
 
-<!--
-**levan06/levan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-Year Bachelor of Computer Science Student
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Java
+- Spring Boot
+- PostgreSQL
+- Web Development
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 Projects:
+- Secure PHP Authentication System
+- Spring Boot REST API (Ongoing Project)
+- Team-based Strategy Game with JAVA
+
+📫 Contact:
+- LinkedIn: [...](https://www.linkedin.com/in/abdellah-achafik/)
+- Email: abdoachafik@gmail.com
