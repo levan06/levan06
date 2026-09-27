@@ -11,8 +11,8 @@
 
 🔨 Projects:
 - Secure PHP Authentication System
-- Spring Boot REST API (Ongoing Project)
 - Team-based Strategy Game with JAVA
+- Spring Boot REST API (Ongoing Project)
 
 📫 Contact:
 - LinkedIn: https://www.linkedin.com/in/abdellah-achafik/
