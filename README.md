@@ -12,7 +12,7 @@
 🔨 Projects:
 - Secure PHP Authentication System
 - Team-based Strategy Game with JAVA
-- Spring Boot REST API (Ongoing Project)
+- Levan's World – 2D Platformer Game (In Progress)
 
 📫 Contact:
 - LinkedIn: https://www.linkedin.com/in/abdellah-achafik/
