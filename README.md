@@ -6,7 +6,8 @@
 - Java
 - Spring Boot
 - PostgreSQL
-- Web Development
+- Web Development(HTML/CSS, PHP, JS)
+- Networking
 - Linux
 
 🔨 Projects:
