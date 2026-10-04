@@ -1,4 +1,4 @@
-# Hi, I'm Abdellah 👋
+# Hi, I'm Abdellah ACHAFIK 👋
 
 🎓 2nd-Year Bachelor of Computer Science Student
 
